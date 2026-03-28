@@ -4,16 +4,16 @@ ToolzPlus is a free platform that provides accurate, browser-based tools and cal
 
 No signup • No registration • No tracking • Instant results
 
-👉 🌐 https://toolzplus.com
+👉 🌐 https://toolzplus.com/
 
 ---
 
 ## 🔥 Popular Tools
 
-- 👉 Word Counter: https://toolzplus.com/word-counter  
-- 👉 Percentage Calculator: https://toolzplus.com/percentage-calculator  
-- 👉 Age Calculator: https://toolzplus.com/age-calculator  
-- 👉 EMI Calculator: https://toolzplus.com/emi-calculator  
+- 👉 Word Counter: https://toolzplus.com/word-counter/ 
+- 👉 Percentage Calculator: https://toolzplus.com/percentage-calculator/  
+- 👉 Age Calculator: https://toolzplus.com/age-calculator/  
+- 👉 EMI Calculator: https://toolzplus.com/emi-calculator/  
 
 ---
 
@@ -86,7 +86,7 @@ All processing happens in your browser, so your data stays private and secure.
 
 ## 🌐 Visit ToolzPlus
 
-👉 https://toolzplus.com
+👉 https://toolzplus.com/
 
 ---
 
