@@ -10,10 +10,10 @@ No signup • No registration • No tracking • Instant results
 
 ## 🔥 Popular Tools
 
-- 👉 Word Counter: https://toolzplus.com/word-counter/ 
-- 👉 Percentage Calculator: https://toolzplus.com/percentage-calculator/  
-- 👉 Age Calculator: https://toolzplus.com/age-calculator/  
-- 👉 EMI Calculator: https://toolzplus.com/emi-calculator/  
+- 👉 Word Counter:  https://www.toolzplus.com/everyday-life/word-counter/
+- 👉 Percentage Calculator:  https://www.toolzplus.com/math-tools/percentage-calculator/ 
+- 👉 Age Calculator: https://www.toolzplus.com/everyday-life/age-calculator/
+- 👉 EMI Calculator: https://www.toolzplus.com/finance/emi-calculator/
 
 ---
 
